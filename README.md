@@ -70,11 +70,11 @@ Example record:
 ### Types of crimes per community `group(community).uniqueSet(type).count()`
 
     https://sandiego.stretchr.com/api/v1.1/crime/incidents.json?key=de0128c1cb7b70f583f56dd71da857df&agg=group(community).uniqueSet(type).count()&order=count
-    
-### Crime stats by year `agg=group(year).count()`
+
+### Crime stats by year `group(year).count()`
 
     https://sandiego.stretchr.com/api/v1.1/crime/incidents.json?key=de0128c1cb7b70f583f56dd71da857df&agg=group(year).count()&order=-count
-    
+
 ### Crime by time of day `group(time).count()`
 
     https://sandiego.stretchr.com/api/v1.1/crime/incidents.json?key=de0128c1cb7b70f583f56dd71da857df&agg=group(time).count()&order=-count
