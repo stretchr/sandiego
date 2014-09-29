@@ -78,3 +78,16 @@ Example record:
 ### Crime by time of day `group(time).count()`
 
     https://sandiego.stretchr.com/api/v1.1/crime/incidents.json?key=de0128c1cb7b70f583f56dd71da857df&agg=group(time).count()&order=-count
+    
+## Pop quiz
+
+_Answers should be accompanied by a URL_
+
+  1. Which month would be best to host a **Say No to Crime** event?
+  1. Which council (number 1-9) deals with the most night crime?
+  1. What are the 14 different recorded types of crime?
+  1. Which week would best make use of extra police on the streets?
+  1. Which day of the week would be best to invite the President to visit?
+  1. What's the best time and place to park our bait car?
+  1. Batman is visiting San Diego to intervene in street assualts; when should he come?
+  
