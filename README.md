@@ -89,5 +89,5 @@ _Answers should be accompanied by a URL_
   1. Which week would best make use of extra police on the streets?
   1. Which day of the week would be best to invite the President to visit?
   1. What's the best time and place to park our bait car?
-  1. Batman is visiting San Diego to intervene in street assualts; when should he come?
+  1. Batman is visiting San Diego to intervene in street assaults; when should he come?
   
